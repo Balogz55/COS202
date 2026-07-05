@@ -1,2 +1,2 @@
 # COS202
-A Repo For All COS202 Practical Works, Assignments and Projects
+A Repository For Storing And Managing All COS202 Practical Works, Assignments And Projects
