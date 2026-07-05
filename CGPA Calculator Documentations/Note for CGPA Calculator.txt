@@ -1,0 +1,143 @@
+1. - Line 33 of the source code contains "continue"
+   - After doing my research, i found that "continue" was the only statement i could use to end that loop without it 
+     giving an error when ran (like using "break") or skipping an entire code block (Like removing the statement entirely)
+
+2. - Line 65 of the source code contains "round"
+   - Without the round, if the division to get the CGPA isn't an whole number, the decimal number would overflow
+   - Using "round" would limit the decimal points to only 2
+   - I also used the school's CGPA calculation shared to students (located below) as a guide/reference:
+
+================================================================================================================================================================
+ADEKUNLE AJASIN UNIVERSITY OFFICIAL CGPA CALCULATION
+================================================================================================================================================================
+*MASTERY CGPA CALCULATION of  5.00 Grading System.* 
+
+*HOW TO CALCULATE CGPA* 
+
+5 = A
+
+4 = B
+
+3 = C
+
+2 = D
+
+1 = E
+
+0 = F
+.........................
+1. 70-100 = A
+
+2. 60-69 = B
+
+3. 50-59 = C
+
+4. 45-49 = D 
+
+5. 40-44 = E
+
+6. 0-39 = F
+.........................
+So:
+
+1. 4.50 - 5.00 = First Class
+
+2. 3.50 - 4.49 = 2nd Class Upper
+
+3. 2.40 - 3.49 = 2nd Class Lower
+
+4. 1.50 - 2.39 = 3rd Class
+
+5. 1.0 - 1.49 = Pass
+.............................................
+WHAT IS CGPA & GPA??
+
+CGPA - Cumulative Grade Point Average. (This is what you have after both 1st and 2nd semester .... In summation and Division, amounting to it)
+
+GPA - Grade Point Average ( This is what you have after every semester)
+
+C.U - Credit Units
+TCU - Total Credit Unit
+
+G.P - Grade Point
+TGP or TQP - Total Grade Point or Quality Point
+
+Thus;
+GPA ..... This is derived by dividing the Total Grade/Quality point (TQP/TGP) by the Total Credit unit (TCU) for that semester.
+
+For example:
+If in a semester, a student earned 90 quality points for 21 credit units, the GPA will be; 
+GPA = TGP/TCU
+            90/21 
+           = 4.28
+
+*HOW TO CALCULATE CGPA:*
+
+CGPA is derived by adding the Total Quality Points (TQP) for all the semesters to date and dividing by the Total Credit Units to date for all semester... 1st & 2nd.
+
+For example:
+If in a semester a student earns a QP of 90 for 21 CU in the first semester and earns a QP of 87 for 20 CU in the second semester, His/Her CGPA will be ;
+CGPA = TQP/TCU
+          = (90+87) / (21+20)
+         =   177 / 41
+               = 4.31
+
+  °
+°   °
+Your CGPA for that session will be, 
+CGPA = 4.31
+
+.............................................   Breaking it Down:
+
+√ Let's Consider a 1st Semester Result as shown below;
+
+S/n  Units.   Grade      G.P
+1.       3    × (A) 5     =  15
+
+2.       2    × (B) 4    =  8 
+
+3.       2    × (A) 5     = 10
+
+4.      3     × (A) 5     = 15
+
+5.      3     × (C) 3     = 9
+
+6.      3     × (D) 2      = 6
+
+7.      2     × (E) 1.     = 2
+      
+     TCU.                   TGP
+     =18                   = 65
+
+  °
+°   °
+GPA = TGP/TCU
+          = 65/18
+            = 3.61
+
+√√ Let us now consider 2nd Semester Result.
+NB: We'd carry out same procedure in 1st semester then apply here. 
+But let's assume our  TCU & TGP to be = 20  and = 93 respectively. 
+
+GPA for second semester   GPA = TGP/TCU
+             93/20
+            = 4.65
+............................................
+√√√ You'll add first semester and semester together to get CGPA. AS As shown below;
+
+Mathematically;
+CGPA = TGP+TGP(1st & 2nd semester) / TCU+TCU(1st & 2nd Semester)
+
+   CGPA = 65+94/ 18+20
+             = 159 / 38
+                 = 4.184210
+NB: Always approximate your point to 2decimal places.
+Thus: Your main
+ CGPA = 4.18 
+
+
+I wish you academic Excellence.
+
+*PLEASE, DON'T BE STINGY, SHARE THIS TO YOUR COURSE MATES AND FRIENDS. VERY IMPORTANT*
+
+===============================================================================================================================================================================================================================================================================================
